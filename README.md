@@ -18,11 +18,3 @@ Desarrollar un gestor de contraseñas completo que incluya:
 
 ---
 
-### ¿Cómo guardarlo?
-
-1. Haz clic en el botón verde **"Add a README"** en tu repositorio.
-2. Pega el texto de arriba en el editor.
-3. Desplázate hacia abajo hasta la sección que dice **"Commit changes"**.
-4. Dale clic al botón verde **"Commit changes"** (puedes dejar el mensaje por defecto que dice *Create README.md*).
-
-
